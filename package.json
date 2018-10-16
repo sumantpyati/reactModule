@@ -1,0 +1,24 @@
+{
+  "name": "git-react",
+  "version": "1.0.0",
+  "description": "React Setup",
+  "main": "index.html",
+  "scripts": {
+    "start":"npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumantpyati/reactModule.git"
+  },
+  "author": "Sumant Pyati",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumantpyati/reactModule/issues"
+  },
+  "homepage": "https://github.com/sumantpyati/reactModule#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
